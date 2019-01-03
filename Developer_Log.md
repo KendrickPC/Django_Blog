@@ -2,13 +2,13 @@
 
 ##### Project Spec Sheet
 
-[x] Start a new Django project called Blog.
-[x] Create an app called blogs in the project, with a model called BlogPost.
-[x] The model should have fields like title, text, and date_added.
-[] Create a superuser for the project, and use the admin site to make a couple of short posts.
-[] Make a home page that shows all posts in chronological order.
-[] Create a form for making new posts and another for editing existing posts.
-[] Fill in your forms to make sure they work .
+-[x] Start a new Django project called Blog.
+-[x] Create an app called blogs in the project, with a model called BlogPost.
+-[x] The model should have fields like title, text, and date_added.
+-[] Create a superuser for the project, and use the admin site to make a couple of short posts.
+-[] Make a home page that shows all posts in chronological order.
+-[] Create a form for making new posts and another for editing existing posts.
+-[] Fill in your forms to make sure they work .
 
 # Developer Instructions
 
@@ -34,5 +34,21 @@ create a new project.
 6. Run `python manage.py migrate`
 
 ##### Creating a Superuser
+
+1. Run terminal command (with manage.py file as directory)
+`python manage.py createsuperuser`
+2. 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
