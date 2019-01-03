@@ -42,8 +42,11 @@ create a new project.
 
 ##### Registering a Model With the Admin Site
 1. Open admin.py file
-2. 
-3. 
+2. Check github commit `Register a model with admin site` in my repo.
+
+##### Adding Topics
+1. Check github commit `Adding topics.` in my repo.
+
 
 
 
