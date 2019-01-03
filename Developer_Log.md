@@ -47,7 +47,9 @@ create a new project.
 ##### Adding Topics
 1. Check github commit `Adding topics.` in my repo.
 2. Run terminal command `python manage.py makemigrations BlogPost`
-2. Run terminal command `python manage.py migrate`
+3. Run terminal command `python manage.py migrate`
+
+
 
 
 
