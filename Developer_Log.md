@@ -37,7 +37,13 @@ create a new project.
 
 1. Run terminal command (with manage.py file as directory)
 `python manage.py createsuperuser`
+2. Create Username and Password.
+
+
+##### Registering a Model With the Admin Site
+1. Open admin.py file
 2. 
+3. 
 
 
 
