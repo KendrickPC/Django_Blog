@@ -33,4 +33,6 @@ create a new project.
 5. Make migrations with `python manage.py makemigrations BlogPost`
 6. Run `python manage.py migrate`
 
+##### Creating a Superuser
+
 
