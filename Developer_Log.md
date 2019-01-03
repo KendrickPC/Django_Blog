@@ -2,10 +2,9 @@
 
 ##### Project Spec Sheet
 
-[] Start a new Django project called Blog.
-
-[] Create an app called blogs in the project, with a model called BlogPost.
-The model should have fields like title, text, and date_added.
+[x] Start a new Django project called Blog.
+[x] Create an app called blogs in the project, with a model called BlogPost.
+[x] The model should have fields like title, text, and date_added.
 Create a superuser for the project, and use the admin site to make a couple
 of short posts . Make a home page that shows all posts in chronological order.
 Create a form for making new posts and another for editing existing posts.
@@ -26,6 +25,9 @@ if migration has not been applied.
 ##### Create APP
 
 1. Activate virtual environment with `source 11_env/bin/activate`
+2. Run the terminal command `python manage.py startapp BlogPost` to
+create a new project.
+3. Start coding in models.py file
 
 
 
